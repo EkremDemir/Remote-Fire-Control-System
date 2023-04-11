@@ -1,0 +1,8 @@
+../Core/Src/RingBuffer.c:22:6:Buffer_Init	16	static
+../Core/Src/RingBuffer.c:37:6:SendBuffer2	16	static
+../Core/Src/RingBuffer.c:45:6:SendBuffer1	16	static
+../Core/Src/RingBuffer.c:53:6:Uart_transmit	16	static
+../Core/Src/RingBuffer.c:63:6:Uart_transmit_string	16	static
+../Core/Src/RingBuffer.c:126:6:Clear_Buffer	16	static
+../Core/Src/RingBuffer.c:134:7:searchfor	40	static
+../Core/Src/RingBuffer.c:175:6:ringBuffer_contains_substring	40	static
