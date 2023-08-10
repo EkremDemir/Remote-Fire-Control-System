@@ -21,4 +21,6 @@ The **Remote Fire Control System** project is designed to receive wireless comma
 ### Demonstration
 Watch the final result of the project on [YouTube](https://www.youtube.com/watch?v=GtpUUK-2tKg).
 
+**This project is conducted in collaboration with ROKETSAN Inc.**
+
 
