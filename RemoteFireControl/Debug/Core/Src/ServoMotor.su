@@ -1,0 +1,4 @@
+../Core/Src/ServoMotor.c:18:6:turnForward	8	static
+../Core/Src/ServoMotor.c:29:6:turnBack	8	static
+../Core/Src/ServoMotor.c:40:6:stopServo	8	static
+../Core/Src/ServoMotor.c:47:6:setTurnSpeed	16	static

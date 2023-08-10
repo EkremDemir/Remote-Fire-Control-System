@@ -1,0 +1,9 @@
+stepMotor.c:38:6:InitializeStepper	1
+stepMotor.c:56:6:setDirection	1
+stepMotor.c:69:6:setSpeed	1
+stepMotor.c:79:6:moveContinous	2
+stepMotor.c:102:6:moveTwoMotor	5
+stepMotor.c:149:6:moveTwoMotorContinous	4
+stepMotor.c:191:6:moveTwoMotorContinous_alter	4
+stepMotor.c:230:6:moveToX	2
+stepMotor.c:252:6:calaculateNetStep	2

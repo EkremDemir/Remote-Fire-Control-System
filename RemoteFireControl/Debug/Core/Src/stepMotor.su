@@ -1,0 +1,9 @@
+../Core/Src/stepMotor.c:38:6:InitializeStepper	16	static
+../Core/Src/stepMotor.c:56:6:setDirection	16	static
+../Core/Src/stepMotor.c:69:6:setSpeed	16	static
+../Core/Src/stepMotor.c:79:6:moveContinous	16	static
+../Core/Src/stepMotor.c:102:6:moveTwoMotor	32	static
+../Core/Src/stepMotor.c:149:6:moveTwoMotorContinous	24	static
+../Core/Src/stepMotor.c:191:6:moveTwoMotorContinous_alter	16	static
+../Core/Src/stepMotor.c:230:6:moveToX	16	static
+../Core/Src/stepMotor.c:252:6:calaculateNetStep	24	static

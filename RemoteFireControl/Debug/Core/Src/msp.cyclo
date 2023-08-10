@@ -1,0 +1,4 @@
+msp.c:16:6:HAL_MspInit	1
+msp.c:39:6:HAL_UART_MspInit	1
+msp.c:72:6:HAL_TIM_Base_MspInit	1
+msp.c:92:6:HAL_TIM_PWM_MspInit	1
