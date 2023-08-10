@@ -1,13 +1,24 @@
-# Remote-Fire-Control-System
+# Remote Fire Control System
 
-Purpose of This project is by taking wireless commands via ESP8266, then evaluate this command; 
--- Rotate pan-tilt system(2 Nema-17 stepper motor was used) in 8 direction(North, North-Northeast, Northeast, East-Northeast, East, East-Southeas, Southeast, South-Southeast). 
--- Fire nerf rivall ball(2 dc motor used to launch the nerf-rival) 
--- AutoFire mode command a servo motor and 2 limit switches was used to reload and fire the nerf-rival balls.
--- SingleFire mode command,
+The **Remote Fire Control System** project is designed to receive wireless commands via an ESP8266 module. Based on these commands, the system can:
 
-Final result of project: https://www.youtube.com/watch?v=GtpUUK-2tKg
+- Rotate a pan-tilt setup using two Nema-17 stepper motors in 8 specific directions:
+  - North
+  - North-Northeast
+  - Northeast
+  - East-Northeast
+  - East
+  - East-Southeast
+  - Southeast
+  - South-Southeast
+- Fire Nerf Rival balls using two DC motors.
+- Operate in two firing modes:
+  - **AutoFire Mode:** Utilizes a servo motor and two limit switches for reloading and firing the Nerf Rival balls.
+  - **SingleFire Mode:** Shoots one ball at a time.
 
+![System Image](https://github.com/EkremDemir/Remote-Fire-Control-System/assets/107949272/88d17336-0d73-4fc6-a0a7-ec1ed44d70dc)
 
-![image](https://github.com/EkremDemir/Remote-Fire-Control-System/assets/107949272/88d17336-0d73-4fc6-a0a7-ec1ed44d70dc)
+### Demonstration
+Watch the final result of the project on [YouTube](https://www.youtube.com/watch?v=GtpUUK-2tKg).
+
 
